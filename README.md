@@ -247,7 +247,7 @@
         <h1>GOATA: návrat k přirozenému pohybu bez bolesti a bez zranění</h1>
 
         <p class="lead">
-          Observační metodologie, která pracuje s tělem jako s celkem. Pomáhá vytvářet dekompresi, přepisovat pohybové vzorce
+          Observační metodologie, která pracuje s tělem jako s celkem. Pomáhá přepisovat pohybové vzorce
           a budovat mobilitu i sílu zároveň.
         </p>
 
@@ -263,7 +263,7 @@
           <div class="benefit"><b>Napříč věkem:</b> pokud jste připraveni být konzistentní</div>
         </div>
 
-        <p class="quote">GOATA je proces. Ne rychlá oprava bez konzistence.</p>
+        <p class="quote">GOATA je proces, ne ne jen rychlá oprava bez konzistence.</p>
       </div>
 
       <aside class="card meta" aria-label="Rychlé info">
@@ -291,13 +291,13 @@
       <div class="two">
         <div>
           <p class="lead" style="margin:0">
-            GOATA je observační metodologie pohybu, která vznikla na základě dlouhodobého pozorování lidí a skupin,
-            u kterých se přirozeně a opakovaně potvrzuje vysoká odolnost těla, kvalitní pohyb a nízká míra zranění.
+            GOATA je observační metodologie pohybu, která vznikla na základě dlouhodobého pozorování skupin lidí,
+            u kterých se přirozeně a opakovaně potvrzuje dlouhověkost, vysoká odolnost těla, kvalitní pohyb a nízká míra zranění.
             Metoda vychází z principu, že tělo je jeden celek – a proto se i trénink zaměřuje na celek, ne na izolované svaly.
           </p>
           <p class="lead" style="margin:12px 0 0">
             GOATA pracuje s tím, jak se tělo hýbe jako systém: jak nese váhu, jak se umí „poskládat“ do stabilních tvarů,
-            jak umí přenášet sílu a jak se dokáže přirozeně regenerovat.
+            jak umí přenášet sílu a jakou má mobilitu.
           </p>
         </div>
 
@@ -333,9 +333,9 @@
         </div>
 
         <div class="feature">
-          <b>ATA „cílovou čáru“</b>
+          <b>GOATA má „cílovou čáru“</b>
           <p>
-            Když projdete procesem změny zpět k přirozenosti, tělo si dokáže získané kvality udržet díky běžným věcem jako je chůze,
+            Narozdíl od jiných fitness modelů, zde projdete procesem změny zpět k přirozenosti a tělo si dokáže získané kvality udržet díky běžným věcem jako je chůze,
             sezení na zemi a každodenní pohyb.
           </p>
           <p style="margin-top:10px; color:var(--muted); font-size:14px">Neztratíte formu – stanete se jí.</p>
@@ -347,7 +347,7 @@
           <b>Proč je důležitá dekomprese a „návrat k přirozenosti“</b>
           <p>
             Moderní životní styl často vede tělo do komprese – zjednodušeně do stavu, kdy uvnitř těla „chybí prostor“.
-            Tělo se postupně zkracuje, tuhne, zhoršuje se práce kloubů a mění se způsob přenosu váhy.
+            Tělo se postupně zkracuje, tuhne, zhoršuje se práce kloubů a mění se způsob přenosu váhy. my to pak vnímáme jako bolest.
           </p>
           <p style="margin-top:10px; color:var(--muted); font-size:14px">
             GOATA se snaží tento vývoj zastavit, ideálně otočit a dostat tělo zpět do stavu, kdy se hýbe efektivně a dlouhodobě udržitelně.
@@ -361,7 +361,7 @@
             GOATA je pro každého, ale není pro všechny.
           </p>
           <p style="margin-top:10px; color:var(--muted); font-size:14px">
-            Nenabízí rychlé opravy bez konzistence. Je to proces a životní styl, který vyžaduje pravidelnost, trpělivost
+            Neslibuje rychlé opravy bez konzistence. Je to životní styl, který vyžaduje pravidelnost, trpělivost
             a ochotu měnit to, jak se hýbete i mimo trénink.
           </p>
         </div>
@@ -375,11 +375,11 @@
         <div>
           <p class="lead" style="margin:0">
             Jmenuji se Dominika Černá. Jsem GOATA instruktorka / trenérka / průvodkyně a pomáhám lidem na cestě „recode“ – návratu těla
-            k přirozenému pohybu.
+            k přirozenému pohybu. Mojí minulostí byl balet, a nejen ten mi zadělal na mnoho zdravotních problémů. Vím co se stane, když člověk sedí 8 hodin za PC, vím co je mít tří fázové tréniniky, vím co je bolest kloubů, zablokovaná záda, úrazy z ničeho, vím co je to nemoci vstát z postele. A dnes už i vím, jaké to je cítit se dobře.
           </p>
           <p class="lead" style="margin:12px 0 0">
             Pracuji s lidmi, kteří chtějí žít bez bolesti pohybového aparátu, zlepšit sportovní výkon nebo předcházet zraněním
-            (tanec i vrcholové sporty).
+            (obyčejný život, sport, tanec).
           </p>
           <p class="small" style="margin:12px 0 0">
             Až budeš chtít, doplníme sem tvůj příběh, certifikace a fotku.
@@ -401,13 +401,13 @@
     <section id="nabidka" class="card section">
       <h2>Nabídka</h2>
       <p class="lead" style="margin:0">
-        Začínáme úvodním posouzením a postupně přepisujeme pohybové vzorce – tak, aby tělo zvládalo zátěž odolněji.
+        Každé tělo je originál a nese si svůj originální kód své vlastní minulosti. Nejprve zjistíme, jak na tom tělo je.
       </p>
 
       <div class="grid3">
         <div class="feature">
           <b>Úvodní posouzení pohybu (slow motion video)</b>
-          <p>Podíváme se, jak tělo funguje v základních vzorcích pohybu. Naučíte se první cviky a dostanete jasný plán dalšího postupu.</p>
+          <p>Podíváme se, jak Vaše tělo funguje v základních vzorcích pohybu. Naučíte se první cviky,  které postupně modifikujeme na těžší varianty. Dostanete jasný plán dalšího postupu.</p>
         </div>
 
         <div class="feature">
@@ -416,8 +416,8 @@
         </div>
 
         <div class="feature">
-          <b>Pohybová praxe & edukace</b>
-          <p>Nezbytnou součástí je vlastní praxe. Součástí je edukace o globálních zákonech, kterými se GOATA řídí.</p>
+          <b>Pohybová praxe </b>
+          <p>Nezbytnou součástí je vlastní praxe, kterou je možné doplnit o skupinové lekce, kde si projedete cviky trochu ve větší intenzitě </p>
         </div>
       </div>
     </section>
